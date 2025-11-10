@@ -31,4 +31,4 @@ except KeyboardInterrupt:
     sys.exit()
 
 except Exception as e:
-    print(f"\n⚠️ Error occurred: {e}")
+    print(f"\n⚠️ Error occurred: {e} ")
